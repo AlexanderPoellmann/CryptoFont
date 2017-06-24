@@ -17,7 +17,7 @@ Looking for a sleek webfont featuring your favourite payment operators and metho
 
 ## Changelog
 
-- 2017-06-24 v0.1.0 Initial release. (89 icons)
+- 2017-06-24 v0.0.1 Initial release. (88 icons)
 
 ## Donate
 
