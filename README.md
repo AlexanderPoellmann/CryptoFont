@@ -22,7 +22,7 @@ A sleek webfont for your favourite cryptocurrencies.
 - The CSS files are licensed under the MIT License:
   - http://opensource.org/licenses/mit-license.html
 - Attribution is not required, but much appreciated:
-  - PaymentFont by vendocrat - http://paymentfont.io
+  - CryptoFont by @AMPoellmann - https://AlexanderPoellmann.com/CryptoFont
 
 ## Disclaimer
 
