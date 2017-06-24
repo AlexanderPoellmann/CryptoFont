@@ -1,0 +1,39 @@
+{
+  "name": "alexanderpoellmann/paymentfont",
+  "description": "CryptoFont - A sleek webfont for your favourite cryptocurrencies",
+  "version": "0.0.1",
+  "keywords": [
+    "crypto",
+    "cryptocurrency",
+    "cryptocoin",
+    "webfont",
+    "font",
+    "icon"
+  ],
+  "homepage": "https://alexanderpoellmann.com/cryptofont",
+  "authors": [
+    {
+      "name": "Alexander Manfred Poellmann",
+      "role": "Developer",
+      "homepage": "http://twitter.com/AMPoellmann"
+    }
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "license": ["OFL-1.1", "MIT"],
+  "main": [
+    "./css/*",
+    "./fonts/*",
+    "./sass/*"
+  ],
+    "ignore": [
+    "*/.*",
+    "*.png",
+    "*.json",
+    "src",
+    "*.yml",
+    "Gemfile",
+    "Gemfile.lock",
+    "*.md"
+  ]
+}
