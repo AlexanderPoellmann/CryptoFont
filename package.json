@@ -1,5 +1,5 @@
 {
-  "name": "paymentfont",
+  "name": "cryptofont",
   "description": "CryptoFont - A sleek webfont for your favourite cryptocurrencies",
   "version": "0.0.1",
   "keywords": [
@@ -12,7 +12,7 @@
   ],
   "homepage": "https://alexanderpoellmann.com/cryptofont",
   "bugs": {
-    "url" : "http://github.com/AlexanderPoellmann/CryptoFont/issues"
+    "url": "http://github.com/AlexanderPoellmann/CryptoFont/issues"
   },
   "author": {
     "name": "Alexander Manfred Poellmann",
@@ -25,8 +25,7 @@
   "contributors": [],
   "license": "(OFL-1.1 AND MIT)",
   "dependencies": {},
-  "engines" : {
-    "node" : ">=0.10.3"
+  "engines": {
+    "node": ">=0.10.3"
   }
 }
-
