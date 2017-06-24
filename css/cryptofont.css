@@ -15,7 +15,7 @@
 	url('../fonts/cryptofont-webfont.woff') format('woff2'),
 	url('../fonts/cryptofont-webfont.woff') format('woff'),
 	url('../fonts/cryptofont-webfont.ttf') format('truetype'),
-	url('../fonts/cryptofont-webfont.svg#paymentfont-webfont') format('svg');
+	url('../fonts/cryptofont-webfont.svg#cryptofont-webfont') format('svg');
 	font-weight:normal;
 	font-style:normal;
 }
