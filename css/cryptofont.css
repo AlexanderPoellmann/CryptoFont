@@ -2,296 +2,296 @@
  * CryptoFont Styles 0.0.1
  *
  * @author    Poellmann Alexander Manfred (@AMPoellmann)
- * @copyright Copyright 2017 Alexander Manfred Poellmann. All Rights Reserved.
+ * @copyright Copyright 2017 Alexander Manfred Poellmann
  * @link      https://AlexanderPoellmann.com
  *
  * @license   Font: SIL OFL 1.1, CSS: MIT License
  */
 
 @font-face {
-	font-family:'CryptoFont';
-	src:url('../fonts/cryptofont-webfont.eot');
-	src:url('../fonts/cryptofont-webfont.eot?#iefix') format('embedded-opentype'),
-	url('../fonts/cryptofont-webfont.woff') format('woff2'),
-	url('../fonts/cryptofont-webfont.woff') format('woff'),
-	url('../fonts/cryptofont-webfont.ttf') format('truetype'),
-	url('../fonts/cryptofont-webfont.svg#cryptofont-webfont') format('svg');
-	font-weight:normal;
-	font-style:normal;
+  font-family:'CryptoFont';
+  src:url('../fonts/cryptofont-webfont.eot');
+  src:url('../fonts/cryptofont-webfont.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/cryptofont-webfont.woff') format('woff2'),
+      url('../fonts/cryptofont-webfont.woff') format('woff'),
+      url('../fonts/cryptofont-webfont.ttf') format('truetype'),
+      url('../fonts/cryptofont-webfont.svg#cryptofont-webfont') format('svg');
+  font-weight:normal;
+  font-style:normal;
 }
 
 .cf {
-	display:inline-block;
-	font:normal normal normal 14px/1 CryptoFont;
-	font-size:inherit;
-	text-rendering:auto;
-	-webkit-font-smoothing:antialiased;
-	-moz-osx-font-smoothing:grayscale;
+  display:inline-block;
+  font:normal normal normal 14px/1 CryptoFont;
+  font-size:inherit;
+  text-rendering:auto;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
 }
 
 .cf-adc:before {
-	content: "\f000";
+  content: "\f000";
 }
 .cf-aeon:before {
-	content: "\f001";
+  content: "\f001";
 }
 .cf-amp:before {
-	content: "\f002";
+  content: "\f002";
 }
 .cf-anc:before {
-	content: "\f003";
+  content: "\f003";
 }
 .cf-ardr:before {
-	content: "\f004";
+  content: "\f004";
 }
 .cf-aur:before {
-	content: "\f005";
+  content: "\f005";
 }
 .cf-bay:before {
-	content: "\f006";
+  content: "\f006";
 }
 .cf-bcn:before {
-	content: "\f007";
+  content: "\f007";
 }
 .cf-brk:before {
-	content: "\f008";
+  content: "\f008";
 }
 .cf-brx:before {
-	content: "\f009";
+  content: "\f009";
 }
 .cf-bsd:before {
-	content: "\f00a";
+  content: "\f00a";
 }
 .cf-bta:before {
-	content: "\f00b";
+  content: "\f00b";
 }
 .cf-btc:before {
-	content: "\f00c";
+  content: "\f00c";
 }
 .cf-btc-alt:before {
-	content: "\f00d";
+  content: "\f00d";
 }
 .cf-btcd:before {
-	content: "\f00e";
+  content: "\f00e";
 }
 .cf-bts:before {
-	content: "\f00f";
+  content: "\f00f";
 }
 .cf-clam:before {
-	content: "\f010";
+  content: "\f010";
 }
 .cf-cloak:before {
-	content: "\f011";
+  content: "\f011";
 }
 .cf-dash:before {
-	content: "\f012";
+  content: "\f012";
 }
 .cf-dcr:before {
-	content: "\f013";
+  content: "\f013";
 }
 .cf-dgb:before {
-	content: "\f014";
+  content: "\f014";
 }
 .cf-dgd:before {
-	content: "\f015";
+  content: "\f015";
 }
 .cf-dgx:before {
-	content: "\f016";
+  content: "\f016";
 }
 .cf-dmd:before {
-	content: "\f017";
+  content: "\f017";
 }
 .cf-doge:before {
-	content: "\f018";
+  content: "\f018";
 }
 .cf-emc:before {
-	content: "\f019";
+  content: "\f019";
 }
 .cf-erc:before {
-	content: "\f01a";
+  content: "\f01a";
 }
 .cf-etc:before {
-	content: "\f01b";
+  content: "\f01b";
 }
 .cf-eth:before {
-	content: "\f01c";
+  content: "\f01c";
 }
 .cf-fct:before {
-	content: "\f01d";
+  content: "\f01d";
 }
 .cf-flo:before {
-	content: "\f01e";
+  content: "\f01e";
 }
 .cf-frk:before {
-	content: "\f01f";
+  content: "\f01f";
 }
 .cf-ftc:before {
-	content: "\f020";
+  content: "\f020";
 }
 .cf-game:before {
-	content: "\f021";
+  content: "\f021";
 }
 .cf-gld:before {
-	content: "\f022";
+  content: "\f022";
 }
 .cf-gnt:before {
-	content: "\f023";
+  content: "\f023";
 }
 .cf-grc:before {
-	content: "\f024";
+  content: "\f024";
 }
 .cf-grs:before {
-	content: "\f025";
+  content: "\f025";
 }
 .cf-heat:before {
-	content: "\f026";
+  content: "\f026";
 }
 .cf-icn:before {
-	content: "\f027";
+  content: "\f027";
 }
 .cf-ifc:before {
-	content: "\f028";
+  content: "\f028";
 }
 .cf-incnt:before {
-	content: "\f029";
+  content: "\f029";
 }
 .cf-ioc:before {
-	content: "\f02a";
+  content: "\f02a";
 }
 .cf-kmd:before {
-	content: "\f02b";
+  content: "\f02b";
 }
 .cf-kobo:before {
-	content: "\f02c";
+  content: "\f02c";
 }
 .cf-kore:before {
-	content: "\f02d";
+  content: "\f02d";
 }
 .cf-lbc:before {
-	content: "\f02e";
+  content: "\f02e";
 }
 .cf-ldoge:before {
-	content: "\f02f";
+  content: "\f02f";
 }
 .cf-lsk:before {
-	content: "\f030";
+  content: "\f030";
 }
 .cf-ltc:before {
-	content: "\f031";
+  content: "\f031";
 }
 .cf-maid:before {
-	content: "\f032";
+  content: "\f032";
 }
 .cf-mint:before {
-	content: "\f033";
+  content: "\f033";
 }
 .cf-mona:before {
-	content: "\f034";
+  content: "\f034";
 }
 .cf-mue:before {
-	content: "\f035";
+  content: "\f035";
 }
 .cf-neos:before {
-	content: "\f036";
+  content: "\f036";
 }
 .cf-nlg:before {
-	content: "\f037";
+  content: "\f037";
 }
 .cf-nmc:before {
-	content: "\f038";
+  content: "\f038";
 }
 .cf-note:before {
-	content: "\f039";
+  content: "\f039";
 }
 .cf-nuc:before {
-	content: "\f03a";
+  content: "\f03a";
 }
 .cf-nxt:before {
-	content: "\f03b";
+  content: "\f03b";
 }
 .cf-ok:before {
-	content: "\f03c";
+  content: "\f03c";
 }
 .cf-omni:before {
-	content: "\f03d";
+  content: "\f03d";
 }
 .cf-pink:before {
-	content: "\f03e";
+  content: "\f03e";
 }
 .cf-pivx:before {
-	content: "\f03f";
+  content: "\f03f";
 }
 .cf-pot:before {
-	content: "\f040";
+  content: "\f040";
 }
 .cf-ppc:before {
-	content: "\f041";
+  content: "\f041";
 }
 .cf-qrk:before {
-	content: "\f042";
+  content: "\f042";
 }
 .cf-rby:before {
-	content: "\f043";
+  content: "\f043";
 }
 .cf-rdd:before {
-	content: "\f044";
+  content: "\f044";
 }
 .cf-rep:before {
-	content: "\f045";
+  content: "\f045";
 }
 .cf-rise:before {
-	content: "\f046";
+  content: "\f046";
 }
 .cf-sjcx:before {
-	content: "\f047";
+  content: "\f047";
 }
 .cf-sls:before {
-	content: "\f048";
+  content: "\f048";
 }
 .cf-steem:before {
-	content: "\f049";
+  content: "\f049";
 }
 .cf-strat:before {
-	content: "\f04a";
+  content: "\f04a";
 }
 .cf-sys:before {
-	content: "\f04b";
+  content: "\f04b";
 }
 .cf-trig:before {
-	content: "\f04c";
+  content: "\f04c";
 }
 .cf-ubq:before {
-	content: "\f04d";
+  content: "\f04d";
 }
 .cf-unity:before {
-	content: "\f04e";
+  content: "\f04e";
 }
 .cf-usdt:before {
-	content: "\f04f";
+  content: "\f04f";
 }
 .cf-vrc:before {
-	content: "\f050";
+  content: "\f050";
 }
 .cf-vtc:before {
-	content: "\f051";
+  content: "\f051";
 }
 .cf-waves:before {
-	content: "\f052";
+  content: "\f052";
 }
 .cf-xcp:before {
-	content: "\f053";
+  content: "\f053";
 }
 .cf-xem:before {
-	content: "\f054";
+  content: "\f054";
 }
 .cf-xmr:before {
-	content: "\f055";
+  content: "\f055";
 }
 .cf-xrp:before {
-	content: "\f056";
+  content: "\f056";
 }
 .cf-zec:before {
-	content: "\f057";
+  content: "\f057";
 }
 
 /*
