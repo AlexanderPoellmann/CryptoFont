@@ -1,4 +1,4 @@
-CryptoFont 0.0.3
+CryptoFont 0.1.0
 ================
 
 A sleek webfont for your favourite cryptocurrencies.
@@ -20,6 +20,7 @@ Looking for a sleek webfont featuring your favourite payment operators and metho
 - 2017-06-24 v0.0.1 Initial release. (88 icons)
 - 2017-06-25 v0.0.2 Minor tweaks.
 - 2017-06-25 v0.0.3 Update version number.
+- 2017-06-25 v0.1.0 Pre-release.
 
 ## Donate
 
