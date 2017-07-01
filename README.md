@@ -5,11 +5,31 @@ A sleek webfont for your favourite cryptocurrencies.
 
 ## Getting Started
 
+**Install with Bower**
+
+```bash
+$ bower install cryptofont
+```
+
+**Install with npm**
+
+```bash
+$ npm install cryptofont
+```
+
+**Install with Composer**
+
+```bash
+$ composer require alexanderpoellmann/cryptofont
+```
+
+Then copy the font files into your project, include the CSS file or import the Sass/Less file and there you go, now you can place the icons wherever you want like so:
+
 ```html
 <i class="cf cf-btc"></i> Bitcoin
 ```
 
-**Get started at [AlexanderPoellmann.com/CryptoFont](https://AlexanderPoellmann.com/CryptoFont)!**
+**Get started at [CryptoFont.com](https://AlexanderPoellmann.com/CryptoFont)!**
 
 ## Check out [PaymentFont](https://github.com/AlexanderPoellmann/PaymentFont)
 
