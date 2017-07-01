@@ -1,0 +1,14 @@
+// Font Path
+// ---------
+
+@font-face {
+  font-family: @cf-font-name;
+  src: url('@{cf-font-path}/@{cf-font-file-name}.eot?v=@{cf-version}');
+  src: url('@{cf-font-path}/@{cf-font-file-name}.eot?#iefix&v=@{cf-version}') format('embedded-opentype'),
+	   url('@{cf-font-path}/@{cf-font-file-name}.woff?v=@{cf-version}') format('woff'),
+	   url('@{cf-font-path}/@{cf-font-file-name}.woff?v=@{cf-version}') format('woff'),
+	   url('@{cf-font-path}/@{cf-font-file-name}.ttf?v=@{cf-version}') format('truetype'),
+	   url('@{cf-font-path}/@{cf-font-file-name}.svg?v=@{cf-version}#@{cf-font-file-name}') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
