@@ -29,11 +29,7 @@ Then copy the font files into your project, include the CSS file or import the S
 <i class="cf cf-btc"></i> Bitcoin
 ```
 
-**Get started at [CryptoFont.com](https://AlexanderPoellmann.com/CryptoFont)!**
-
-## Check out [PaymentFont](https://github.com/AlexanderPoellmann/PaymentFont)
-
-Looking for a sleek webfont featuring your favourite payment operators and methods? **Check out [PaymentFont](https://github.com/AlexanderPoellmann/PaymentFont)!**
+**Get started at [CryptoFont.com](https://cryptofont.com)!**
 
 ## Changelog
 
@@ -57,16 +53,20 @@ CryptoFont was useful to you? Awesome! So, why not buy me a beer to keep the pro
 - The CSS files are licensed under the MIT License:
   - http://opensource.org/licenses/mit-license.html
 - Attribution is not required, but much appreciated:
-  - CryptoFont by @AMPoellmann - https://AlexanderPoellmann.com/CryptoFont
+  - CryptoFont by @AMPoellmann - https://cryptofont.com
 
 ## Disclaimer
 
 All used trademarks, brands and/or names are the property of their respective owners.
 The use of these trademarks, brands and/or names does not indicate endorsement of the property holder by us, nor vice versa.
 
+## Check out [PaymentFont](https://paymentfont.com) as well!
+
+Looking for a sleek webfont featuring your favourite payment operators and methods? **Check out my free [PaymentFont](https://paymentfont.com)!**
+
 ## Author
 
-**Handcrafted with love by [Alexander Manfred Pöllmann](https://AlexanderPoellmann.com) in Vienna &amp; Rome.**
+**Handcrafted with love by [Alexander Manfred Pöllmann](https://alexanderpoellmann.com) in Vienna &amp; Rome.**
 
 Follow me on [Twitter](https://twitter.com/AMPoellmann), [Instagram](https://instagram.com/AlexanderPoellmann) and [GitHub](https://github.com/AlexanderPoellmann) :-)
 

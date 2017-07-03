@@ -10,7 +10,7 @@
     "font",
     "icon"
   ],
-  "homepage": "https://alexanderpoellmann.com/cryptofont",
+  "homepage": "https://cryptofont.com",
   "authors": [
     {
       "name": "Alexander Manfred Poellmann",
@@ -24,7 +24,8 @@
   "main": [
     "./css/*",
     "./fonts/*",
-    "./sass/*"
+    "./sass/*",
+    "./less/*"
   ],
     "ignore": [
     "*/.*",
