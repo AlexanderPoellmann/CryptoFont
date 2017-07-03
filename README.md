@@ -1,7 +1,7 @@
 CryptoFont 0.1.1
 ================
 
-A sleek webfont for your favourite cryptocurrencies.
+A sleek webfont for your favourite cryptocurrencies. **Get started at [CryptoFont.com](https://cryptofont.com)!**
 
 ## Getting Started
 
